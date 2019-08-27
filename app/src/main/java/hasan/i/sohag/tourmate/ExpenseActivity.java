@@ -19,6 +19,7 @@ public class ExpenseActivity extends AppCompatActivity {
         setContentView(R.layout.activity_expense);
 
         init();
+        init();
     }
 
     private void init() {
